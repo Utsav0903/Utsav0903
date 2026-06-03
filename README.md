@@ -74,7 +74,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [🔴 RADSAS](https://github.com/Utsav0903/RADSAS) | Ransomware simulation & defense readiness platform with live 3D dashboard | Python, Flask, AES, Three.js |
+| [🔴 RADSAS](https://github.com/Utsav0903/Ransomware-Attack-Simulation-Defense-Readiness-Assessment) | Ransomware simulation & defense readiness platform with live 3D dashboard | Python, Flask, AES, Three.js |
 | [🟠 Phishing Detection](https://github.com/Utsav0903/Phishing-Detection-Web-Page) | ML model classifying phishing vs safe URLs with 93% accuracy | Python, Scikit-learn, Flask |
 | [🟡 Cyber Hygiene Scanner](https://github.com/Utsav0903/cyber-hygiene-scanner) | AI-based password & URL risk scoring tool | Python, Flask, VirusTotal API |
 | [🐍 Python Mini Projects](https://github.com/Utsav0903/Projects) | Collection of Python CLI tools and GUI apps built during MCA | Python, Tkinter |
