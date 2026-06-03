@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Completed **MCA in Cybersecurity** from UPES Dehradun *(Result Awaited)*
+- 🎓 Completed **MCA in Cybersecurity** from UPES Dehradun 
 - 🔐 Passionate about **Penetration Testing, Ethical Hacking & SOC Analysis**
 - 🛠️ Built real-world security tools — Ransomware Simulation, Phishing Detection, Cyber Hygiene Scanner
 - 🧪 Actively practicing on **TryHackMe**: [Utsav09](https://tryhackme.com/p/Utsav09)
