@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Utsav Porwal 👋</h1>
-<h3 align="center">MCA Cybersecurity Graduate | Penetration Testing | Python | Open to Opportunities</h3>
+<h3 align="center">MCA Cybersecurity Graduate | Penetration Testing | Open to Opportunities</h3>
 
 <br/>
 
